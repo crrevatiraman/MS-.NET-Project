@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PizzaBuy.Data;
 using PizzaBuy.Repositories;
+using Stripe;
 
 internal class Program
 {
@@ -11,13 +12,21 @@ internal class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
-        builder.Services.AddDbContext<PizzaBuy.Data.PizzaBuyDbContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("PizzaConnectionString")));
-
+        //builder.Services.AddDbContext<PizzaBuy.Data.PizzaBuyDbContext>(options =>
+        //options.UseSqlServer(builder.Configuration.GetConnectionString("PizzaConnectionString")));
+        builder.Services.AddDbContext<PizzaBuyDbContext>(options =>
+        {
+            var connectionString = builder.Configuration.GetConnectionString("MySqlConn");
+            options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+        });
         //injecting auth db context
-        builder.Services.AddDbContext<PizzaBuy.Data.AuthDbContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("PizzaAuthDbConnectionString")));
-
+        //builder.Services.AddDbContext<PizzaBuy.Data.AuthDbContext>(options =>
+        //options.UseSqlServer(builder.Configuration.GetConnectionString("PizzaAuthDbConnectionString")));
+        builder.Services.AddDbContext<AuthDbContext>(options =>
+        {
+            var connectionString = builder.Configuration.GetConnectionString("MySqlConn");
+            options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+        });
 
         builder.Services.AddIdentity<IdentityUser ,  IdentityRole>().AddEntityFrameworkStores<AuthDbContext>();
 
@@ -39,6 +48,8 @@ internal class Program
         //Repo injected
         builder.Services.AddScoped<IProductRepository, ProductRepository>();
         builder.Services.AddScoped<IProfileRepository, ProfileRepository>();
+        builder.Services.AddScoped<ICartItemRepository, CartItemRepository>();
+        builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 
         var app = builder.Build();
 
@@ -54,6 +65,8 @@ internal class Program
         app.UseStaticFiles();
 
         app.UseRouting();
+
+        StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
 
         app.UseAuthentication();
         app.UseAuthorization();

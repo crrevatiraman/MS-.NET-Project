@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj": {}
+    "C:\\1_CDAC_DOCS\\MS .NET\\PizzaBuyFinal\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj": {}
   },
   "projects": {
-    "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj": {
+    "C:\\1_CDAC_DOCS\\MS .NET\\PizzaBuyFinal\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj",
+        "projectUniqueName": "C:\\1_CDAC_DOCS\\MS .NET\\PizzaBuyFinal\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj",
         "projectName": "PizzaBuy",
-        "projectPath": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj",
-        "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
-        "outputPath": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\obj\\",
+        "projectPath": "C:\\1_CDAC_DOCS\\MS .NET\\PizzaBuyFinal\\PizzaBuy\\PizzaBuy\\PizzaBuy\\PizzaBuy.csproj",
+        "packagesPath": "C:\\Users\\revat\\.nuget\\packages\\",
+        "outputPath": "C:\\1_CDAC_DOCS\\MS .NET\\PizzaBuyFinal\\PizzaBuy\\PizzaBuy\\PizzaBuy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\revat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,6 +57,22 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[43.15.0, )"
             }
           },
           "imports": [

@@ -238,13 +238,8 @@ D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.csproj.AssemblyReference.cache
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.GeneratedMSBuildEditorConfig.editorconfig
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.AssemblyInfoInputs.cache
@@ -253,6 +248,7 @@ D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.MvcApplicationPartsAssemblyInfo.cache
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.RazorAssemblyInfo.cache
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.RazorAssemblyInfo.cs
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.sourcelink.json
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets.build.json
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets.development.json
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets\msbuild.PizzaBuy.Microsoft.AspNetCore.StaticWebAssets.props
@@ -269,3 +265,121 @@ D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.pdb
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.genruntimeconfig.cache
 D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\ref\PizzaBuy.dll
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Stripe.net.dll
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAC\Video Lectures\DotNet\Udemy\Final Dot net\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\appsettings.Development.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\appsettings.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\PizzaBuy.staticwebassets.runtime.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\PizzaBuy.exe
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\PizzaBuy.deps.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\PizzaBuy.runtimeconfig.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\PizzaBuy.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\PizzaBuy.pdb
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Azure.Core.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Azure.Identity.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Humanizer.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Stripe.net.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.CodeDom.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Memory.Data.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Text.Json.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.csproj.AssemblyReference.cache
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.AssemblyInfoInputs.cache
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.AssemblyInfo.cs
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.csproj.CoreCompileInputs.cache
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.MvcApplicationPartsAssemblyInfo.cache
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.RazorAssemblyInfo.cache
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.RazorAssemblyInfo.cs
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.sourcelink.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets.build.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets.development.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets\msbuild.PizzaBuy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets\msbuild.build.PizzaBuy.props
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PizzaBuy.props
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PizzaBuy.props
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\scopedcss\bundle\PizzaBuy.styles.css
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\scopedcss\projectbundle\PizzaBuy.bundle.scp.css
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.csproj.CopyComplete
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\refint\PizzaBuy.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.pdb
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\PizzaBuy.genruntimeconfig.cache
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\obj\Debug\net6.0\ref\PizzaBuy.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Google.Protobuf.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\MySql.Data.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\MySqlConnector.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\ZstdSharp.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\1_CDAC_DOCS\MS .NET\PizzaBuyFinal\PizzaBuy\PizzaBuy\PizzaBuy\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll

@@ -15,7 +15,7 @@ namespace PizzaBuy.Controllers
             this.productRepository = productRepository;
         }
 
-        [Authorize(Roles ="Admin")]
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public IActionResult Add()
         {
@@ -24,9 +24,10 @@ namespace PizzaBuy.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpPost]
-        
+
         public async Task<IActionResult> Add(AddProductRequest addProductRequest)
         {
+            TempData["ProductAdd"] = "Product Added Successfully";
             var product = new Product
             {
                 ProductName = addProductRequest.ProductName,
@@ -37,8 +38,8 @@ namespace PizzaBuy.Controllers
                 Type = addProductRequest.Type,
             };
             await productRepository.AddAsync(product);
-
-            return RedirectToAction("Add");
+            TempData["notifyMessage"] = "Product Added Successfully";
+            return RedirectToAction("List");
         }
 
         [Authorize(Roles = "Admin")]
@@ -48,7 +49,6 @@ namespace PizzaBuy.Controllers
             var productList = await productRepository.GetAllAsync();
             return View(productList);
         }
-
 
         [Authorize(Roles = "Admin")]
         [HttpGet]
@@ -104,11 +104,12 @@ namespace PizzaBuy.Controllers
 
             if(updatedProduct1 != null)
             {
-                //show success
+                TempData["notifyMessage"] = "Product Updated Successfully";
                 return RedirectToAction("List");
             }
             else
             {
+                TempData["notifyMessage"] = "Something went wrong";
                 return RedirectToAction("Edit");
             }
         }
@@ -122,11 +123,13 @@ namespace PizzaBuy.Controllers
             if(deletedProduct != null)
             {
                 //show success notification
+                TempData["notifyMessage"] = "Product Deleted...";
                 return RedirectToAction("List");
             }
             else
             {
                 //show error notification
+                TempData["notifyMessage"] = "Something Went Wrong...";
                 return RedirectToAction("Edit", new { id = editProductRequest.Id });
             }
 
